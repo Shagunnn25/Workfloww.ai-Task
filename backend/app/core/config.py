@@ -5,7 +5,6 @@ class Settings(BaseSettings):
     database_url: str
     supabase_url: str
     supabase_anon_key: str
-    supabase_jwt_secret: str
     frontend_origin: str = "http://localhost:5173"
     environment: str = "development"
 
