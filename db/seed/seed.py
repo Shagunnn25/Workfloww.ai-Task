@@ -27,10 +27,10 @@ SEED_PASSWORD = "Password123!"
 COMPANIES = [
     {
         "name": "Acme Corporation",
-        "manager": {"email": "manager@acme.test", "full_name": "Alice Manager"},
+        "manager": {"email": "manager@acme-demo.io", "full_name": "Alice Manager"},
         "employees": [
-            {"email": "emp1@acme.test", "full_name": "Evan Employee"},
-            {"email": "emp2@acme.test", "full_name": "Ella Employee"},
+            {"email": "emp1@acme-demo.io", "full_name": "Evan Employee"},
+            {"email": "emp2@acme-demo.io", "full_name": "Ella Employee"},
         ],
         "tasks": [
             {"title": "Draft Q3 report", "status": "completed", "assignee": 0, "due_in_days": -5},
@@ -41,10 +41,10 @@ COMPANIES = [
     },
     {
         "name": "Globex Inc",
-        "manager": {"email": "manager@globex.test", "full_name": "Gary Manager"},
+        "manager": {"email": "manager@globex-demo.io", "full_name": "Gary Manager"},
         "employees": [
-            {"email": "emp1@globex.test", "full_name": "Grace Employee"},
-            {"email": "emp2@globex.test", "full_name": "Greg Employee"},
+            {"email": "emp1@globex-demo.io", "full_name": "Grace Employee"},
+            {"email": "emp2@globex-demo.io", "full_name": "Greg Employee"},
         ],
         "tasks": [
             {"title": "Audit Q3 expenses", "status": "pending", "assignee": 0, "due_in_days": 7},
