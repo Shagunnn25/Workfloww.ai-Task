@@ -1,0 +1,1 @@
+Stage 1: Defined architecture (FastAPI + Supabase Postgres via transaction pooler + React/TS/Vite), the companies/users/tasks data model, the JWT + RLS tenant-isolation approach, and the monorepo folder structure.
