@@ -1,0 +1,1 @@
+Stage 5: Built the React + TypeScript frontend (login screen, manager and employee views, typed API client, shared types/utility functions with Vitest tests) and wired it end-to-end to the live backend.

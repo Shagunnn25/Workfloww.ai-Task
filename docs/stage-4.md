@@ -1,0 +1,1 @@
+Stage 4: Built the `/auth/login`, `/tasks` and `/employees` endpoints with a thin routes -> services -> repository layering, JWKS-based JWT verification, per-request RLS transactions, consistent error responses, and pytest tests covering the security-critical paths.

@@ -1,0 +1,1 @@
+Stage 3: Added the companies/users/tasks schema migrations, RLS policies with role-based helper functions, example queries, and a seed script, and proved cross-company isolation by running the same query as two different seeded users.
